@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leo and I'm a estudante from software development</h2>
+<h2 align="left">Hi 👋! My name is Leo and I'm a student from software development</h2>
 
 ###
 
