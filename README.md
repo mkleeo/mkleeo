@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Leo and I'm a estudante from Programação</h2>
+<h2 align="left">Hi 👋! My name is Leo and I'm a estudante from software development</h2>
 
 ###
 
@@ -39,10 +39,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/mkleeo/mkleeo/output/snake.svg" alt="Snake animation" />
-
-###
 
 <img src="https://raw.githubusercontent.com/mkleeo/mkleeo/output/snake.svg" alt="Snake animation" />
 
